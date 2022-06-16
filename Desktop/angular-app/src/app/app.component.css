@@ -1,0 +1,11 @@
+.head1{
+    text-shadow: 2px 2px #00ffea;
+}
+.head-todo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+    
+}
